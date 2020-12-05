@@ -8,4 +8,4 @@ used as a proxy to identify market trends. The second part is devoted in creatin
 predicts future annual returns and future annual volatility. Finally, the last part of the project is to form the optimal portfolio depending on the risk aversion 
 of the investor. 
 
-In order to be able to see the interactive plots from github, use the option: "Limited rendering only, external view available with nbviewer"
+In order to be able to see the interactive plots on github, use the option: "Limited rendering only, external view available with nbviewer"
